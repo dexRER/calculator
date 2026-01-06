@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SyntaxPHP\\Documents\\CSHARPdesktop\\dotnet\\digitCalculator\\digitCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\SyntaxPHP\\Documents\\CSHARPdesktop\\dotnet\\digitCalculator\\calculator\\digitCalculator.csproj",
       "projectName": "digitCalculator",
-      "projectPath": "C:\\Users\\SyntaxPHP\\Documents\\CSHARPdesktop\\dotnet\\digitCalculator\\digitCalculator.csproj",
+      "projectPath": "C:\\Users\\SyntaxPHP\\Documents\\CSHARPdesktop\\dotnet\\digitCalculator\\calculator\\digitCalculator.csproj",
       "packagesPath": "C:\\Users\\SyntaxPHP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SyntaxPHP\\Documents\\CSHARPdesktop\\dotnet\\digitCalculator\\obj\\",
+      "outputPath": "C:\\Users\\SyntaxPHP\\Documents\\CSHARPdesktop\\dotnet\\digitCalculator\\calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
