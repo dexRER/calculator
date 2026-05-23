@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
@@ -62,6 +60,7 @@ class Program
                 case "-": result = firstDigit - secondDigit; break;
                 case "*": result = firstDigit * secondDigit; break;
                 case "/": result = firstDigit / secondDigit; break;
+                case "^": MathRoot(firstDigit, secondDigit); break;
                 default: Console.WriteLine("We dont have the same option"); ; break;
             }
 
@@ -69,6 +68,16 @@ class Program
             Console.WriteLine($"Result: {result}");
 
             AskToContinue();
+        }
+
+        float MathRoot(float num, float rate)
+        {
+            result = 1;
+
+            for (int i = 0; i < rate; i++) 
+                result = result * num;
+
+            return result;
         }
 
         void CheckNumber(string str, out float number)
