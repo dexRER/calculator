@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ll1on\\Documents\\GitHub\\calculator_app\\digitCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\ll1on\\Documents\\Coding\\GitHub\\Calculator\\Calculator\\digitCalculator.csproj",
       "projectName": "digitCalculator",
-      "projectPath": "C:\\Users\\ll1on\\Documents\\GitHub\\calculator_app\\digitCalculator.csproj",
+      "projectPath": "C:\\Users\\ll1on\\Documents\\Coding\\GitHub\\Calculator\\Calculator\\digitCalculator.csproj",
       "packagesPath": "C:\\Users\\ll1on\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ll1on\\Documents\\GitHub\\calculator_app\\obj\\",
+      "outputPath": "C:\\Users\\ll1on\\Documents\\Coding\\GitHub\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
